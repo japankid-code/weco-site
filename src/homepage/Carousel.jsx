@@ -3,34 +3,46 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
+import img0 from '../assets/images/homepage-carousel/0.png'
+import img1 from '../assets/images/homepage-carousel/1.png'
+import img2 from '../assets/images/homepage-carousel/2.png'
+import img3 from '../assets/images/homepage-carousel/3.png'
+import img4 from '../assets/images/homepage-carousel/4.png'
+import img5 from '../assets/images/homepage-carousel/5.png'
+import img6 from '../assets/images/homepage-carousel/6.png'
+
 export default function SimpleSlider() {
   var settings = {
     dots: true,
     infinite: true,
+    fade:true,
     speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1
-  };
+  }
   return (
-    <div className="z-50">
+    <div className="relative z-50 max-w-xs sm:max-w-sm md:max-w-lg lg:max-w-3xl 2xl:max-w-6xl">
       <Slider {...settings}>
-        <div>
-          <h3><img src="https://www.placecage.com/c/500/300" alt="" /></h3>
+        <div className="">
+          <img src={img0} alt='' />
         </div>
         <div>
-          <h3>2</h3>
+          <img src={img1} alt='' />
         </div>
         <div>
-          <h3>3</h3>
+          <img src={img2} alt='' />
         </div>
         <div>
-          <h3>4</h3>
+          <img src={img3} alt='' />
         </div>
         <div>
-          <h3>5</h3>
+          <img src={img4} alt='' />
         </div>
         <div>
-          <h3>6</h3>
+          <img src={img5} alt='' />
+        </div>
+        <div>
+          <img src={img6} alt='' />
         </div>
       </Slider>
     </div>
