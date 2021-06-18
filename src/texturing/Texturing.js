@@ -9,8 +9,8 @@ function Texturing() {
     <div className=''>
       <Header></Header>
       <Hero></Hero>
-      {/* <Laser></Laser>
-      <Chemical></Chemical> */}
+      <Laser></Laser>
+      <Chemical></Chemical>
       <Footer></Footer>
     </div>
   )

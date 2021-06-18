@@ -1,4 +1,4 @@
-import bgImage from '../assets/images/home-hero-bg.png';
+import bgImage from '../assets/images/texturing-hero-bg.png';
 
 function Hero() {
   const heroImage = {
@@ -8,7 +8,7 @@ function Hero() {
   };
 
   const bgGradient = {
-    background: 'linear-gradient(to bottom, #000000bb 75%, #000000)'
+    background: 'linear-gradient(to bottom, #000000ee 50%, #000000)'
   }
 
   const textShadow = {
@@ -22,9 +22,28 @@ function Hero() {
         <h1 className="text-5xl sm:text-6xl text-gray-100 whitespace-nowrap p-8" style={textShadow}>
           TEXTURING
         </h1>
-        <div className="h-12"></div>
+        <div className="grid grid-cols-2 w-96">
+          <a className='text-gray-100 text-2xl text-center m-4 p-1 rounded-xl ring-2' 
+            href='#laser' 
+            style={{background: '#0081C3'}}
+          >
+            LASER
+          </a>
+          <a className='text-gray-100 text-2xl text-center m-4 p-1 rounded-xl ring-2'
+            href='#chemical'
+            style={{background: '#0081C3'}}
+          >
+            CHEMICAL
+          </a>
+        </div>
+        <div className='text-gray-100 mx-10 mt-6 mb-16 sm:max-w-xl xl:max-w-2xl text-justify'>
+          At Wisconsin Engraving, we understand our customers have specific requirements 
+          that need to be met. Whether it is satisfying strict appearance tolerances 
+          or producing solutions that deliver consistent finishes that stand out. Through
+          the use of this state-of-the-art technology, our team removes the restrictions
+          of all projects allowing even the most complex of challenges to be realized.
+        </div>
         
-        <div className="h-48"></div>
       </div>
     </section>
   );
