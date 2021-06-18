@@ -4,7 +4,7 @@ import Whatwedo from './Whatwedo';
 import Services from './Services';
 import Footer from '../Footer';
 
-function App() {
+function Home() {
   return (
     <div className=''>
       <Header></Header>
@@ -16,4 +16,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;

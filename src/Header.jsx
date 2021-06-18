@@ -1,23 +1,23 @@
 function Dropdown() {
   return (
-    <div id='nav-dropdown' className="absolute hidden text-gray-300 top-5 left bg-gray-900 bg-opacity-95 self-center rounded-lg p-1 m-1 group-hover:block">
-      <a href='#texturing' 
+    <div id='nav-dropdown' className="absolute hidden text-gray-300 top-5 lg:top-7 lg:left-2 left bg-gray-900 shadow-md bg-opacity-95 self-center rounded-lg p-1 m-1 group-hover:block">
+      <a href='/texturing' 
         className="block text-sm p-0.5 hover:bg-gray-700 rounded w-auto text-center px-1 m-0.5"
         >
           Texturing
       </a>
-      <a href='#machining' 
+      <a href='/machining' 
         className="block text-sm p-0.5 hover:bg-gray-700 rounded w-auto text-center px-1 m-0.5"
         >
           Machining
       </a>
       
-      <a href='#engraving' 
+      <a href='/engraving' 
         className="block text-sm p-0.5 hover:bg-gray-700 rounded w-auto text-center px-1 m-0.5"
         >
           Engraving
       </a>
-      <a href='#specialty' 
+      <a href='/specialty' 
         className="block text-sm p-0.5 hover:bg-gray-700 rounded w-auto text-center px-1 m-0.5"
         >
           Specialty
