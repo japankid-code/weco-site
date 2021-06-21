@@ -1,19 +1,15 @@
-import Header from '../Header'
-import Hero from './Hero'
-import Laser from './Laser'
-import Chemical from './Chemical'
-import Footer from '../Footer'
+import Hero from "./Hero";
+import Laser from "./Laser";
+import Chemical from "./Chemical";
 
 function Texturing() {
   return (
-    <div className=''>
-      <Header></Header>
+    <div className="">
       <Hero></Hero>
       <Laser></Laser>
       <Chemical></Chemical>
-      <Footer></Footer>
     </div>
-  )
+  );
 }
 
-export default Texturing
+export default Texturing;

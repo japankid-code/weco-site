@@ -1,17 +1,13 @@
-import Header from '../Header';
-import Hero from './Hero';
-import Whatwedo from './Whatwedo';
-import Services from './Services';
-import Footer from '../Footer';
+import Hero from "./Hero";
+import Whatwedo from "./Whatwedo";
+import Services from "./Services";
 
 function Home() {
   return (
-    <div className=''>
-      <Header></Header>
+    <div className="">
       <Hero></Hero>
       <Whatwedo></Whatwedo>
       <Services></Services>
-      <Footer></Footer>
     </div>
   );
 }
