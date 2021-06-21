@@ -9,9 +9,9 @@ class Chemical extends Component {
           Chemical etching has many benefits over hard tooling production
           processes such as stamping and die cutting. It offers greater design
           flexibility and much lower set up costs. The etching process causes no
-          mechanical distress to the material leaving parts burr and stress free
-          with no changes to the material grain structure or magnetic
-          properties.
+          mechanical distress to the material leaving parts burr- and
+          stress-free with no changes to the material grain structure or
+          magnetic properties.
         </div>
       </section>
     );

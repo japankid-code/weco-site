@@ -2,9 +2,9 @@ import Hero from "./Hero";
 
 function Specialty() {
   return (
-    <div className="">
+    <main className="flex-grow">
       <Hero></Hero>
-    </div>
+    </main>
   );
 }
 

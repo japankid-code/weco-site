@@ -4,11 +4,11 @@ import Services from "./Services";
 
 function Home() {
   return (
-    <div className="">
+    <main className="flex-grow">
       <Hero></Hero>
       <Whatwedo></Whatwedo>
       <Services></Services>
-    </div>
+    </main>
   );
 }
 

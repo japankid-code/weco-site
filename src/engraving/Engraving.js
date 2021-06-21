@@ -2,9 +2,9 @@ import Hero from "./Hero";
 
 function Engraving() {
   return (
-    <div className="">
+    <main className="flex-grow">
       <Hero></Hero>
-    </div>
+    </main>
   );
 }
 

@@ -4,7 +4,7 @@ function Dropdown() {
   return (
     <div
       id="nav-dropdown"
-      className="absolute hidden text-gray-300 top-5 lg:top-7 lg:left-2 left bg-gray-900 shadow-md bg-opacity-95 self-center rounded-lg p-1 m-1 group-hover:block"
+      className="absolute hidden text-gray-300 top-5 lg:top-7 lg:left-2 left bg-gray-800 shadow-md bg-opacity-90 self-center rounded-lg p-1 m-1 group-hover:block"
     >
       <a
         href="/texturing"

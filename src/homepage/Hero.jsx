@@ -1,4 +1,4 @@
-import bgImage from "../assets/images/home-hero-bg.png";
+import bgImage from "../assets/images/homepage/home-hero-bg.png";
 
 function Hero() {
   const heroImage = {

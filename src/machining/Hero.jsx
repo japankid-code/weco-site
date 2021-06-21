@@ -26,12 +26,11 @@ function Hero() {
           MACHINING
         </h1>
         <div className="text-gray-100 mx-10 mt-6 mb-16 sm:max-w-xl xl:max-w-2xl text-justify">
-          At Wisconsin Engraving, we understand our customers have specific
-          requirements that need to be met. Whether it is satisfying strict
-          appearance tolerances or producing solutions that deliver consistent
-          finishes that stand out. Through the use of this state-of-the-art
-          technology, our team removes the restrictions of all projects allowing
-          even the most complex of challenges to be realized.
+          Using state-of-the-art computer hardware, software, and 4th axis
+          capable machining, our machine centers produce complicated designs -
+          even helical geometry - and computerized engraving on flat, contoured,
+          and rotary shapes. We are capable of producing intricate prototypes
+          and accurate repeatability of electrodes.
         </div>
       </div>
     </section>

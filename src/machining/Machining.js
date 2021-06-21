@@ -1,10 +1,12 @@
 import Hero from "./Hero";
+import Capabilities from "./Capabilities";
 
 function Machining() {
   return (
-    <div className="">
+    <main className="flex-grow">
       <Hero></Hero>
-    </div>
+      <Capabilities></Capabilities>
+    </main>
   );
 }
 

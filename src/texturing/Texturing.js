@@ -4,11 +4,11 @@ import Chemical from "./Chemical";
 
 function Texturing() {
   return (
-    <div className="">
+    <main className="flex-grow">
       <Hero></Hero>
       <Laser></Laser>
       <Chemical></Chemical>
-    </div>
+    </main>
   );
 }
 
