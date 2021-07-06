@@ -11,12 +11,12 @@ function WecoCarousel(props) {
       centerMode={true}
       centerSlidePercentage={95}
       infiniteLoop={true}
-      className="max-w-xl lg:max-w-3xl"
+      className="max-w-sm sm:max-w-lg md:max-w-xl lg:max-w-3xl xl:max-w-6xl"
     >
-      <div className="flex items-center">
+      <div>
         <img src={img0} alt="" />
       </div>
-      <div className="self-center">
+      <div>
         <img src={img1} alt="" />
       </div>
       <div>
