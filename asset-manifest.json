@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/weco-site/static/css/main.6ffe3e0a.chunk.css",
+    "main.js": "/weco-site/static/js/main.3794c9b8.chunk.js",
+    "main.js.map": "/weco-site/static/js/main.3794c9b8.chunk.js.map",
+    "runtime-main.js": "/weco-site/static/js/runtime-main.ee648a67.js",
+    "runtime-main.js.map": "/weco-site/static/js/runtime-main.ee648a67.js.map",
+    "static/js/2.8ffa0d25.chunk.js": "/weco-site/static/js/2.8ffa0d25.chunk.js",
+    "static/js/2.8ffa0d25.chunk.js.map": "/weco-site/static/js/2.8ffa0d25.chunk.js.map",
+    "static/js/3.c07e5578.chunk.js": "/weco-site/static/js/3.c07e5578.chunk.js",
+    "static/js/3.c07e5578.chunk.js.map": "/weco-site/static/js/3.c07e5578.chunk.js.map",
+    "index.html": "/weco-site/index.html",
+    "static/css/main.6ffe3e0a.chunk.css.map": "/weco-site/static/css/main.6ffe3e0a.chunk.css.map",
+    "static/js/2.8ffa0d25.chunk.js.LICENSE.txt": "/weco-site/static/js/2.8ffa0d25.chunk.js.LICENSE.txt",
+    "static/media/engraving-hero-bg.d94f6707.png": "/weco-site/static/media/engraving-hero-bg.d94f6707.png",
+    "static/media/engraving-icon.a607a9e2.png": "/weco-site/static/media/engraving-icon.a607a9e2.png",
+    "static/media/home-hero-bg.1ac39990.png": "/weco-site/static/media/home-hero-bg.1ac39990.png",
+    "static/media/machining-hero-bg.e97883c1.png": "/weco-site/static/media/machining-hero-bg.e97883c1.png",
+    "static/media/machining-icon.4d73ccb3.png": "/weco-site/static/media/machining-icon.4d73ccb3.png",
+    "static/media/specialty-hero-bg.46432282.png": "/weco-site/static/media/specialty-hero-bg.46432282.png",
+    "static/media/specialty-icon.9fd4fa79.png": "/weco-site/static/media/specialty-icon.9fd4fa79.png",
+    "static/media/texturing-hero-bg.3349bc6a.png": "/weco-site/static/media/texturing-hero-bg.3349bc6a.png",
+    "static/media/texturing-icon.0644e498.png": "/weco-site/static/media/texturing-icon.0644e498.png",
+    "static/media/weco-logo.c3187a59.png": "/weco-site/static/media/weco-logo.c3187a59.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee648a67.js",
+    "static/js/2.8ffa0d25.chunk.js",
+    "static/css/main.6ffe3e0a.chunk.css",
+    "static/js/main.3794c9b8.chunk.js"
+  ]
+}
