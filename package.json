@@ -2,7 +2,7 @@
   "name": "weco-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://japankid-code.github.io/weco-site/",
+  "homepage": "https://weco-site.herokuapp.com/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",

@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# weco-site
+
+The [repo is here](https://github.com/japankid-code/weco-site), and this project is [deployed here](https://weco-site.herokuapp.com/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
