@@ -1,17 +1,24 @@
 {
   "files": {
     "main.css": "/weco-site/static/css/main.6ffe3e0a.chunk.css",
-    "main.js": "/weco-site/static/js/main.3794c9b8.chunk.js",
-    "main.js.map": "/weco-site/static/js/main.3794c9b8.chunk.js.map",
-    "runtime-main.js": "/weco-site/static/js/runtime-main.ee648a67.js",
-    "runtime-main.js.map": "/weco-site/static/js/runtime-main.ee648a67.js.map",
-    "static/js/2.8ffa0d25.chunk.js": "/weco-site/static/js/2.8ffa0d25.chunk.js",
-    "static/js/2.8ffa0d25.chunk.js.map": "/weco-site/static/js/2.8ffa0d25.chunk.js.map",
-    "static/js/3.c07e5578.chunk.js": "/weco-site/static/js/3.c07e5578.chunk.js",
-    "static/js/3.c07e5578.chunk.js.map": "/weco-site/static/js/3.c07e5578.chunk.js.map",
+    "main.js": "/weco-site/static/js/main.578cb72b.chunk.js",
+    "main.js.map": "/weco-site/static/js/main.578cb72b.chunk.js.map",
+    "runtime-main.js": "/weco-site/static/js/runtime-main.e8bc3502.js",
+    "runtime-main.js.map": "/weco-site/static/js/runtime-main.e8bc3502.js.map",
+    "static/css/2.6b560088.chunk.css": "/weco-site/static/css/2.6b560088.chunk.css",
+    "static/js/2.60d0ad5b.chunk.js": "/weco-site/static/js/2.60d0ad5b.chunk.js",
+    "static/js/2.60d0ad5b.chunk.js.map": "/weco-site/static/js/2.60d0ad5b.chunk.js.map",
     "index.html": "/weco-site/index.html",
+    "static/css/2.6b560088.chunk.css.map": "/weco-site/static/css/2.6b560088.chunk.css.map",
     "static/css/main.6ffe3e0a.chunk.css.map": "/weco-site/static/css/main.6ffe3e0a.chunk.css.map",
-    "static/js/2.8ffa0d25.chunk.js.LICENSE.txt": "/weco-site/static/js/2.8ffa0d25.chunk.js.LICENSE.txt",
+    "static/js/2.60d0ad5b.chunk.js.LICENSE.txt": "/weco-site/static/js/2.60d0ad5b.chunk.js.LICENSE.txt",
+    "static/media/0.4d70b061.png": "/weco-site/static/media/0.4d70b061.png",
+    "static/media/1.49e20aa1.png": "/weco-site/static/media/1.49e20aa1.png",
+    "static/media/2.0e4e1f49.png": "/weco-site/static/media/2.0e4e1f49.png",
+    "static/media/3.b319f0d8.png": "/weco-site/static/media/3.b319f0d8.png",
+    "static/media/4.b8b948be.png": "/weco-site/static/media/4.b8b948be.png",
+    "static/media/5.cc2c6188.png": "/weco-site/static/media/5.cc2c6188.png",
+    "static/media/6.fe28379e.png": "/weco-site/static/media/6.fe28379e.png",
     "static/media/engraving-hero-bg.d94f6707.png": "/weco-site/static/media/engraving-hero-bg.d94f6707.png",
     "static/media/engraving-icon.a607a9e2.png": "/weco-site/static/media/engraving-icon.a607a9e2.png",
     "static/media/home-hero-bg.1ac39990.png": "/weco-site/static/media/home-hero-bg.1ac39990.png",
@@ -24,9 +31,10 @@
     "static/media/weco-logo.c3187a59.png": "/weco-site/static/media/weco-logo.c3187a59.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee648a67.js",
-    "static/js/2.8ffa0d25.chunk.js",
+    "static/js/runtime-main.e8bc3502.js",
+    "static/css/2.6b560088.chunk.css",
+    "static/js/2.60d0ad5b.chunk.js",
     "static/css/main.6ffe3e0a.chunk.css",
-    "static/js/main.3794c9b8.chunk.js"
+    "static/js/main.578cb72b.chunk.js"
   ]
 }
