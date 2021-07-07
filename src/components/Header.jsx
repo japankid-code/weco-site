@@ -1,4 +1,4 @@
-import wecoLogo from "./assets/images/weco-logo.png";
+import wecoLogo from "../assets/images/weco-logo.png";
 
 function Dropdown() {
   return (

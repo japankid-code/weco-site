@@ -11,10 +11,9 @@ import img4 from "../assets/images/homepage/homepage-carousel/4.png";
 import img5 from "../assets/images/homepage/homepage-carousel/5.png";
 import img6 from "../assets/images/homepage/homepage-carousel/6.png";
 
-const images = [img0, img1, img2, img3, img4, img5, img6];
+const imageList = [img0, img1, img2, img3, img4, img5, img6];
 
 function Home() {
-  const [imageList] = useState(images);
   return (
     <main className="flex-grow">
       <Hero></Hero>

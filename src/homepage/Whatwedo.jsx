@@ -1,10 +1,10 @@
-import WecoCarousel from "./WecoCarousel";
+import WecoCarousel from "../components/WecoCarousel";
 
 function Whatwedo(props) {
   const { imageList } = props;
   return (
     <section id="what-we-do" className="bg-black text-gray-100">
-      <h3 className="text-6xl text-center p-6 pt-16">WHAT WE DO</h3>
+      <h3 className="text-6xl text-center p-6 pt-8">WHAT WE DO</h3>
       <div className="flex flex-col justify-center items-center z-10">
         <WecoCarousel imageList={imageList}></WecoCarousel>
         <h4 className="text-lg p-3 m-3 max-w-2xl text-justify">

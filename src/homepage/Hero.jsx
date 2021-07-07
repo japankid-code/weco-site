@@ -8,7 +8,8 @@ function Hero() {
   };
 
   const bgGradient = {
-    background: "linear-gradient(to bottom, #00000020 65%, #000000)",
+    background:
+      "linear-gradient(90deg, rgba(0,0,0,1) 1%, rgba(0,0,0,.1) 25%, rgba(0,0,0,.1) 75%, rgba(0,0,0,1) 99%), linear-gradient(0deg, rgba(0,0,0,1) 12%, rgba(0,0,0,.3) 30%, rgba(0,0,0,.3) 60%, rgba(0,0,0,1) 90%)",
   };
 
   return (

@@ -7,8 +7,8 @@ import Texturing from "./texturing/Texturing";
 import Engraving from "./engraving/Engraving";
 import Machining from "./machining/Machining";
 import Specialty from "./specialty/Specialty";
-import Header from "./Header";
-import Footer from "./Footer";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 ReactDOM.render(
   <React.StrictMode>
