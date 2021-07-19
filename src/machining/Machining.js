@@ -3,7 +3,7 @@ import Capabilities from "./Capabilities";
 
 function Machining() {
   return (
-    <main className="flex-grow">
+    <main className="flex-grow grid">
       <Hero></Hero>
       <Capabilities></Capabilities>
     </main>

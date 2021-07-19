@@ -9,7 +9,7 @@ function Hero() {
 
   const bgGradient = {
     background:
-      "linear-gradient(90deg, rgba(0,0,0,1) 10%, rgba(0,0,0,.3) 50%, rgba(0,0,0,1) 90%), linear-gradient(0deg, rgba(0,0,0,1) 20%, rgba(0,0,0,.3) 50%, rgba(0,0,0,1) 80%)",
+      "linear-gradient(90deg, rgba(0,0,0,1) 10%, rgba(0,0,0,.1) 20%, rgba(0,0,0,.1) 70%, rgba(0,0,0,1) 90%), linear-gradient(0deg, rgba(0,0,0,1) 5%, rgba(0,0,0,.3) 50%, rgba(0,0,0,1) 80%)",
   };
 
   return (
